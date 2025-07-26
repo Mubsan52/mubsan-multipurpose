@@ -104,3 +104,9 @@ p {
     grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
   }
 }
+#logo {
+  width: 250px;  /* adjust as needed */
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
